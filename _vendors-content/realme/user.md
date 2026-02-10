@@ -97,6 +97,22 @@ On newer versions, the App battery management was moved to _system settings → 
 * <strong>Sleep stand-by optimization</strong> - automatically enables low power mode when the system thinks you are asleep.
 
 
+## Display pop-up windows of applications running in the background
+
+This feature needs to be turned on for alarm apps, so they can launch the alarm screen even if you are not actively using the alarm app at the moment.
+
+<div class="img-block">
+  <figure>
+    <img src="/assets/img/realme/realme_pop_up_1.jpg">
+    <figcaption>In system settings -> Apps, find <b>Special access</b>section</figcaption>
+  </figure>
+
+   <figure>
+    <img src="/assets/img/realme/realme_pop_up_2.jpg">
+    <figcaption>Here, find <b>Display pop-up windows of applications running in the background</b> </figcaption>
+  </figure>  
+</div>
+
 ## Performance mode
 
 <div class="img-block">
