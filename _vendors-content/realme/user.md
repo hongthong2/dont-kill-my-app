@@ -104,12 +104,12 @@ This feature needs to be turned on for alarm apps, so they can launch the alarm 
 <div class="img-block">
   <figure>
     <img src="/assets/img/realme/realme_pop_up_1.jpg">
-    <figcaption>In system settings -> Apps, find Special access section</figcaption>
+    <figcaption>In settings -> Apps -> Special access section</figcaption>
   </figure>
 
    <figure>
     <img src="/assets/img/realme/realme_pop_up_2.jpg">
-    <figcaption>Find Display pop-up windows of applications running in the background</figcaption>
+    <figcaption>Display pop-up windows of applications running in the background</figcaption>
   </figure>  
 </div>
 
